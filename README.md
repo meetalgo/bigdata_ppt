@@ -19,7 +19,7 @@ DAC、SIGMOD、SIGIR、ISCA
 
 欢迎大家Star
 
-目前已经更新的文章包括
+目前已经更新的文献包括
 
 MICRO
 A scalable NoC topology targeting network performance..pdf
